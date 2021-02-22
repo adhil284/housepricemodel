@@ -285,4 +285,4 @@ def HouseModelPrediction(request):
 
 
 ## RESULT:
-Thus a website is designed to train the house price model and to predict the price and is hosted in the URL http://adityajv.student.saveetha.in:8000/. GitHub Repo URL is https://github.com/adityajv2310/housepricemodel.
+Thus a website is designed to train the house price model and to predict the price and is hosted in the URL http://adhil.student.saveetha.in:8000/HouseModelTraining/. other URL is https://github.com/adhil284/housepricemodel.
